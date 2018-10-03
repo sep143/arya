@@ -1,0 +1,17 @@
+.error,.red{color: red}
+label {
+    font-weight: bold;
+    font-size: 12px;
+}
+.custom-form{margin: 0 10%;}
+.checkbox{width: 20px;height: 20px;cursor: pointer;}
+.review-box{border: 1px dashed rgba(67, 142, 185, 0.45);
+    padding: 0 20px 20px 20px;
+}
+.reviewer-header{
+    border: 1px dashed #ccc;
+    background: rgba(255, 193, 7, 0.25);
+}
+.reviewer-table td{
+    
+}
